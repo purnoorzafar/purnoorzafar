@@ -30,9 +30,9 @@ Android application developed during my NTC internship for managing interns, tas
 
 **Technologies:** Kotlin, Android Studio, SQLite
 
-### 💰 NTC Data Center | PC-Calculation-Website
+### 💰 NTC Data Center | Price Calculator
 
-PC Calculation Website developed using Raspberry Pi during my NTC internship.
+Responsive web-based price calculator developed during my NTC internship to estimate Data Center service costs based on configured tariff information.
 
 ### 🤟 Camera-Based Sign Language Translator
 
